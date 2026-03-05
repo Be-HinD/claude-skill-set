@@ -1,4 +1,4 @@
-# dev-skill-kit
+# dev-skill-kit (EN)
 
 A repository for creating and curating skills for LLM agent environments, managed at the framework level — separate from individual projects.
 
@@ -51,7 +51,7 @@ For externally sourced skills, see [CREDITS.md](CREDITS.md).
 
 ---
 
-# dev-skill-kit
+# dev-skill-kit (KR)
 
 LLM 에이전트 환경에서 사용할 스킬을 생성·큐레이션하고, 프로젝트와 분리된 프레임워크 레벨로 관리하기 위한 저장소입니다.
 
