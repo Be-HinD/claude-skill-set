@@ -44,6 +44,14 @@ Each domain folder (`back`, `workflow`, etc.) contains versioned subdirectories 
 | `commit` | Write commit messages |
 | `create-pr` | Create pull requests |
 
+## References
+
+| Agent | Documentation |
+|-------|--------------|
+| Claude Code | [Extend Claude with skills](https://code.claude.com/docs/en/skills) |
+| Gemini CLI | [Agent Skills](https://geminicli.com/docs/cli/skills/) · [Creating Skills](https://geminicli.com/docs/cli/creating-skills/) |
+| OpenAI Codex | [Agent Skills](https://developers.openai.com/codex/skills/) · [Agents Guide](https://developers.openai.com/api/docs/guides/agents/) |
+
 ## License
 
 This repository is licensed under the [MIT License](LICENSE).
@@ -96,6 +104,14 @@ dev-skill-kit/
 |--------|------|
 | `commit` | 커밋 메시지 작성 |
 | `create-pr` | PR 생성 |
+
+## 레퍼런스
+
+| 에이전트 | 문서 |
+|---------|------|
+| Claude Code | [스킬 확장 가이드](https://code.claude.com/docs/en/skills) |
+| Gemini CLI | [Agent Skills](https://geminicli.com/docs/cli/skills/) · [스킬 생성](https://geminicli.com/docs/cli/creating-skills/) |
+| OpenAI Codex | [Agent Skills](https://developers.openai.com/codex/skills/) · [에이전트 가이드](https://developers.openai.com/api/docs/guides/agents/) |
 
 ## 라이선스
 
